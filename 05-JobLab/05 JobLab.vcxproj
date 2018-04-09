@@ -25,7 +25,7 @@
   <PropertyGroup Label="Globals">
     <SccProjectName />
     <SccLocalPath />
-    <ProjectGuid>{10A80467-0688-4581-B271-BCA30DF2F82C}</ProjectGuid>
+    <ProjectGuid>{52ECB891-0C7F-4E35-A92F-99A8F73C4BD5}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">

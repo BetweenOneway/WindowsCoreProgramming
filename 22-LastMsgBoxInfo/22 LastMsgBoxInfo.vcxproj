@@ -25,7 +25,7 @@
   <PropertyGroup Label="Globals">
     <SccProjectName />
     <SccLocalPath />
-    <ProjectGuid>{546A05BF-4CB6-489A-AD13-415DE3BFEB3C}</ProjectGuid>
+    <ProjectGuid>{6515D91E-CF15-466D-864A-B90A0F49BF81}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">
@@ -258,7 +258,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\22-LastMsgBoxInfoLib\22 LastMsgBoxInfoLib.vcxproj">
-      <Project>{96679349-5516-4624-91a6-b756b43305ec}</Project>
+      <Project>{4447d4b1-dee1-4c61-808b-355bd9f2fea2}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>

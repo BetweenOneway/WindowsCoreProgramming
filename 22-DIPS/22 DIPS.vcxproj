@@ -25,7 +25,7 @@
   <PropertyGroup Label="Globals">
     <SccProjectName />
     <SccLocalPath />
-    <ProjectGuid>{DC721CFC-EBF0-43F7-8803-5A4C67A0B737}</ProjectGuid>
+    <ProjectGuid>{911ABB75-1FFD-4C23-95C9-AD3FA5A34F41}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">
@@ -258,7 +258,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\22-DIPSLib\22 DIPSLib.vcxproj">
-      <Project>{7d148006-17de-4d1b-8645-3c239054619a}</Project>
+      <Project>{414f50c2-6b52-4f11-957e-292217092bfc}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>

@@ -25,7 +25,7 @@
   <PropertyGroup Label="Globals">
     <SccProjectName />
     <SccLocalPath />
-    <ProjectGuid>{D10FD4E5-2537-4CCD-8EF5-B62D4EEBC886}</ProjectGuid>
+    <ProjectGuid>{01A22ACC-7661-484A-8D18-D1CC0D66CA76}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">
@@ -258,7 +258,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\20-DelayLoadLib\20 DelayLoadLib.vcxproj">
-      <Project>{4724cba7-56ab-4361-b673-414e9a4e5fd7}</Project>
+      <Project>{1061e47f-f41c-48cd-9d28-bda5fde24ab3}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
